@@ -1,0 +1,43 @@
+.logo a{
+display: inline-block;
+font-size: 28px;
+margin-top: 13px;
+font-weight: bold;
+}
+
+.scheme_original a {
+    color: #008036;
+}
+
+.scheme_original a:hover {
+    color: red;
+}
+
+.scheme_original .contact_button>a.first_button {
+    background-color: #008036;
+    color: #ffffff;
+}
+
+.scheme_original .contact_button>a.first_button:hover {
+    background-color: black;
+    color: #ffffff;
+}
+
+.scheme_original .contact_button>a.second_button {
+    background-color: red;
+    color: #FFF;
+}
+
+.scheme_original .contact_button>a.second_button:hover {
+    background-color: black;
+    color: #FFF;
+}
+
+.scheme_original .menu_main_nav>a:hover, .scheme_original .menu_main_nav>li>a:hover, .scheme_original .menu_main_nav>li.sfHover>a, .scheme_original .menu_main_nav>li.current-menu-item>a, .scheme_original .menu_main_nav>li.current-menu-parent>a, .scheme_original .menu_main_nav>li.current-menu-ancestor>a {
+    color: #008036;
+}
+
+.scheme_original .menu_main_nav>li ul {
+    color: #ffffff;
+    background-color: #008036;
+}
