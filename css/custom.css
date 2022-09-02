@@ -1,12 +1,12 @@
 .logo a{
 display: inline-block;
-font-size: 28px;
+font-size: 45px;
 margin-top: 13px;
 font-weight: bold;
 }
 
 .scheme_original a {
-    color: #008036;
+    color: #0E3120;
 }
 
 .scheme_original a:hover {
@@ -65,7 +65,7 @@ font-weight: bold;
 
 .logo_main{
     float:left;
-    width: 50px;
+    width: 130px;
 }
 
 .top_panel_wrap .logo_main {
@@ -73,4 +73,12 @@ font-weight: bold;
     width: 100px;
     padding:20px 0;
     border-radius: 100%;
+}
+
+.staff-photos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
 }
