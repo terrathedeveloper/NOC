@@ -82,3 +82,7 @@ font-weight: bold;
     align-items: center;
     background-color: black;
 }
+
+.top_panel_fixed .top_panel_wrap .logo_main {
+     display: block; 
+}
