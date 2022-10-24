@@ -104,3 +104,7 @@ font-weight: bold;
     width: 300px;
     
 }
+
+.scheme_original .sc_team_item .sc_team_item_info .sc_team_item_position {
+   color: #008036
+}
