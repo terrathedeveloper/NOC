@@ -91,3 +91,16 @@ font-weight: bold;
 .top_panel_fixed .top_panel_wrap .logo_main {
      display: block; 
 }
+
+.team_brief_info_title{
+    margin-top:20px!important;
+}
+
+.logo-section{
+    display:flex;
+    justify-content: center;
+}
+.logo-section img{
+    width: 300px;
+    
+}
