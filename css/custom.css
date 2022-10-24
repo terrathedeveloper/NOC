@@ -77,10 +77,15 @@ font-weight: bold;
 
 .staff-photos{
     display: flex;
-    flex-wrap: wrap;
+  /*  flex-wrap: wrap;*/
     justify-content: space-evenly;
     align-items: center;
     background-color: black;
+
+}
+
+.staff-photos div{
+    margin: 20px;
 }
 
 .top_panel_fixed .top_panel_wrap .logo_main {
