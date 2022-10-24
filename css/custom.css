@@ -105,6 +105,6 @@ font-weight: bold;
     
 }
 
-.scheme_original .sc_team_item .sc_team_item_info .sc_team_item_position {
+.scheme_original .sc_team_item .sc_team_item_info .sc_team_item_position, .scheme_original .post_type_donation h4 {
    color: #008036
 }
