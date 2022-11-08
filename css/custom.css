@@ -70,10 +70,18 @@ font-weight: bold;
 
 .top_panel_wrap .logo_main {
     max-height: 300px;
+    width: 150px;
+    padding:20px 0;
+    border-radius: 100%;
+}
+
+.top_panel_fixed .top_panel_wrap .logo_main {
+    max-height: 300px;
     width: 100px;
     padding:20px 0;
     border-radius: 100%;
 }
+
 
 .staff-photos{
     display: flex;
@@ -108,4 +116,44 @@ font-weight: bold;
 .scheme_original .sc_team_item .sc_team_item_info .sc_team_item_position, .scheme_original .post_type_donation h4,
 h4.entry-title a{
    color: #008036!important;
+}
+
+.scheme_original .top_panel_middle {
+    background-color: #000;
+}
+
+.block_who_we_are{
+    background-color: green;
+}
+
+.block_who_we_are .sc_services_title{
+    color:#FFF;
+}
+
+ .scheme_original .sc_item_descr {
+    color: black;
+    font-weight: bold;
+}
+
+.scheme_original .sc_button.sc_button_style_filled2 {
+    background-color: #ff7e27;
+    color: #ffffff;
+}
+
+.scheme_original .sc_button.sc_button_style_filled2:hover {
+    background-color: red;
+    color: #ffffff;
+}
+
+.block_our_logo{
+    background-color:black!important;
+}
+
+.block_our_logo .sc_services_title{
+    color:#FFF;
+}
+
+.block_our_logo .sc_item_descr{
+    margin-top:40px;
+    color:white;
 }

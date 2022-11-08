@@ -2389,7 +2389,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .menu_hover_roll_down .menu_main_nav > li.current-menu-item > a:before,
 .menu_hover_roll_down .menu_main_nav > li.current-menu-ancestor > a:before,
 .menu_hover_roll_down .menu_main_nav > li.current-menu-parent > a:before {
-	opacity: 1;
+	opacity: 0.5;
 	-webkit-transform: translate3d(0, 0, 0);
 	    -ms-transform: translate3d(0, 0, 0);
 	        transform: translate3d(0, 0, 0);
